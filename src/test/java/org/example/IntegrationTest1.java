@@ -1,11 +1,9 @@
 package org.example;
 
-import org.example.Alphabetizer;
-import org.example.CircularShifter;
-
+import static org.junit.jupiter.api.Assertions.*;
 import java.util.ArrayList;
 
-import static org.junit.jupiter.api.Assertions.*;
+
 
 class IntegrationTest1 {
 
